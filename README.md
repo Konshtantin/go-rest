@@ -1,6 +1,6 @@
 # go-rest
 
-Pet-проект для практики REST API. Postgres c pgx (без ORM намеренно)? Chi-роутер чтобы не уходить в абстракции больших фреймворков типо Gin или Fiber, cache-aside на Redis. Всё поднимается с docker compose.
+Pet-проект для практики REST API. Postgres c pgx (без ORM намеренно), Chi-роутер чтобы не уходить в абстракции больших фреймворков типо Gin или Fiber, cache-aside на Redis. Всё поднимается с docker compose.
 
 
 
